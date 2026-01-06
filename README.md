@@ -31,7 +31,7 @@ I love crafting robust APIs and as of now, I'm starting to tinker with AI integr
 ### 🔭 What I'm Working On
 
 - 🏗️ **Backend Architecture:** Designing microservices and RESTful APIs mostly.
-- 🤖 **AI Engineering:** Integrating LLMs into production apps (not just training models, but making them useful!).
+- 🤖 **AI Engineering:** Integrating LLMs into production apps. Not just training models, but making them useful... probably...
 - ⚡ **Performance:** Optimizing code for speed and scalability, or at least I'm trying to.
 
 ### 🌱 Currently Learning
